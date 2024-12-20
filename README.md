@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shwetakushwaha04
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m an enthusiastic person who is very keen to explore the depths of coding world 
+- 🌱 I’m currently learning JavaScript and java
 
 <!---
 Shwetakushwaha04/Shwetakushwaha04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
